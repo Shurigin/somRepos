@@ -1,1 +1,4 @@
-pring("hello World;");
+<<<<<<< HEAD
+print("hello World");
+print("hello my dear friend;");
+print("glad to see you;");
